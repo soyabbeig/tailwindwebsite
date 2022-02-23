@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tailwindwebsite/static/css/main.073c9b0a.css",
+    "main.js": "/tailwindwebsite/static/js/main.bd650ec6.js",
+    "static/js/787.71e672d5.chunk.js": "/tailwindwebsite/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/tailwindwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tailwindwebsite/index.html",
+    "main.073c9b0a.css.map": "/tailwindwebsite/static/css/main.073c9b0a.css.map",
+    "main.bd650ec6.js.map": "/tailwindwebsite/static/js/main.bd650ec6.js.map",
+    "787.71e672d5.chunk.js.map": "/tailwindwebsite/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bd650ec6.js"
+  ]
+}
